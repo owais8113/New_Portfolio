@@ -34,8 +34,8 @@ Feedback loop: The robot continuously repeats the line detection, sensor data in
       </div>
       </div>
       
-      <Footer/>
     </div>
+      <Footer/>
     </div>
     
   )
