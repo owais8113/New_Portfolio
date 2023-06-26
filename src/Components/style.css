@@ -1045,3 +1045,23 @@ iframe{
     justify-content: center;
 
   }
+  /* .navbar1{
+    background: transparent;
+  } */
+  .navbar1-container .heading{
+    font-size: 3.0rem;
+    margin: 2rem;
+    border-radius: 10%;
+    margin-top: 1.9rem;
+}
+.navbar1-container .heading:hover{
+    /* color: blue; */
+    background-color:var(--second-bg-color);
+}
+  @media (max-width:385px){
+    .navbar1-container .heading{
+        font-size: 1.7rem;
+        margin: 0.8rem;
+        
+    }
+  }
